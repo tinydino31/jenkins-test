@@ -5,4 +5,4 @@ Changed PAT
 Configured pipeline
 
 
-Testing 6.0
+Testing 7.0
