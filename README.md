@@ -2,6 +2,7 @@
 ques 3 lab 2 comp367
 
 Changed PAT
+Configured pipeline
 
 
-Testing 3.0
+Testing 4.0
