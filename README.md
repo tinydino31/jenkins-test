@@ -5,4 +5,4 @@ Changed PAT
 Configured pipeline
 
 
-Testing 7.0
+Testing 8.0
